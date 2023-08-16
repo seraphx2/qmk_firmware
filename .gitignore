@@ -32,6 +32,7 @@ quantum/version.h
 
 # DD config at wrong location
 /keyboards/**/keymaps/*/info.json
+/keyboards/**/keymaps/seraphx2/seraphx2.json
 
 # Old-style QMK Makefiles
 /keyboards/**/Makefile
